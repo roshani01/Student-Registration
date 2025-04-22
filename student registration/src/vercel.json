@@ -1,1 +1,3 @@
-{"REWRITES":[{"SOURCE":"/(.*)","DESTINATION":"/student registration"}]}
+{
+    "rewrites": [{ "source": "/(.*)", "destination": "/" }]
+  }
